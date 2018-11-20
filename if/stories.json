@@ -1,0 +1,19 @@
+{
+	"stories" : [
+	 	{
+	 		"id": 1,
+	 		"title": "Strory 1",
+	 		"hasImage": false,
+	 		"image": "",
+	 		"content": "content 1"
+	 	},
+	 	{
+	 		"id": 2,
+	 		"title": "Strory 2",
+	 		"hasImage": true,
+	 		"image": "delete.jpg",
+	 		"content": "content 2"
+	 	}
+	]
+
+}
