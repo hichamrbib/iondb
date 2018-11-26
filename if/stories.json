@@ -2,38 +2,73 @@
 	"stories" : [
 	 	{
 	 		"id": 1,
-	 		"title": "Strory 1",
-	 		"hasImage": false,
-	 		"image": "",
-	 		"content": "content 1"
+	 		"title": "Down 50 pounds, Unbelievable!!!",
+	 		"hasImage": true,
+	 		"image": "01.jpg",
+	 		"content": "<p>So I started out with a 16:8 plan, and back then it was a lot easier to lose weight I just mainly watched what I ate and stuck to the fasting. However, I started to slow down around a month or so ago so yeah I've been working exercise into it. I try to walk around whenever I have a bunch of free time. I do quite of few workouts at home, but I do live on the second floor of an apartment so I mainly stick to crunches, push-ups and various other quiet exercises. Also every now and then I switch up the fasting plan like one day ill have a day where I'll skip breakfast, then have another day where I'll skip dinner. Or have a week where one day ill fast for 24 hours followed by a day where I have a longer time to eat.</p>"
 	 	},
 	 	{
 	 		"id": 2,
-	 		"title": "Strory 2",
-	 		"hasImage": true,
-	 		"image": "01.jpg",
-	 		"content": "content 2"
+	 		"title": "Intermittent fasting works. I’ve lost 80 lbs in 9 months",
+	 		"hasImage": false,
+	 		"image": "default.jpg",
+	 		"content": "<p>After Losing 80lbs in 9 months. I realize IF has been by far the biggest factor in my success and is the biggest reason I know that this weight loss is for good.</p><p>I started IF on February 24th of this year. I’m 6’5”, and started at a weight of 395. This morning (Nov 21st) I weighed in at 314.4 lbs.</p><p>I’ve tried losing weight several times over the years, but was never able to maintain it for longer than 6 months or so. What usually would work for me was strict CICO, logging everything I ate. But long term that took way too much willpower, and I was never able to get used to eating less.</p><p>I did a good amount of research on IF - watching YouTube videos and reading this forum, but it always seemed impossible. That weigh-in at 395 on Feb 24th was the last straw for me. I did NOT want to see that number go up to over 400 lbs. I told myself that I’d try 16:8 that weekend, to see how it felt. I got through Saturday and Sunday, basically just skipping breakfast and not eating after 8, and I felt great. I decided to extend it into the work week, and felt even better. I started out logging calories, but after a month or so I realized I didn’t need to. First, because it was hard for me to go over my daily calorie goal while doing IF. Second, because my amount of hunger REALLY started decreasing after a couple days and I felt fine at a caloric deficit. But third and most importantly, after a month of IF I realized that this wasn’t going to just be a short term thing, that I could do IF for life. I knew I couldn’t count calories for life. So I stopped logging and stuck with IF.</p><p>I started with 16:8, and would mix in some days of 20:4 or OMAD every now and then. Once a month or so I mix in a 36 hour fast. At this point, most days I do 20:4, but my absolute minimum hours fasting is 16. Essentially I see how I’m feeling around lunch time - if I’m hungry, I eat. If not, I don’t until later.</p><p>Speaking of hunger, one of the most important benefits of IF that I never saw with CICO was actually feeling the difference between real physical hunger and just being mentally “hungry” which was almost always because of boredom, stress, or cravings for a certain kind of food. I think that mixing in the longer fasts have been key to this realization. I don’t plan out my 36 hour fasts, they just happen naturally when I’m not hungry. The longest I’ve gone is 48 hours, and even at that point I wasn’t physically hungry, I just felt like I should eat something.</p><p>Exercise has also been important. When I started out in February, I just tried to walk around more. On March 10th, which happened to be my 39th birthday, I broke my foot and that scared me. Years ago I’d broken my other foot and gained a good deal of weight while on crutches and not moving around much. This time, I used the broken foot as motivation. I bought a heavy bag, and used it every day while in a walking boot for my foot because it was essentially upper body cardio and I didn’t have to put too much stress on my foot. I stayed consistent with that - doing HIIT cardio throughout the recovery for my foot. I got out of the boot in May, and walked in a 5k the next day.</p><p>From that point I started going to the gym lifting weights 3-4 times per week.l, while still doing HIIT cardio 6 days per week. At this point I’m focusing more on the weight training - as my strength has gone up and I’m lifting heavier and heavier weight the recovery for my muscles has gotten more important, so I’ve dialed back the cardio.</p><p>My goal when I started was to lose 100 pounds in one year, and I think I’m on track to make that happen. However the number on the scale has gotten less important to me because as I’ve been building muscle the absolute weight loss has slowed but my body fat percentage is going down at around the same rate.</p><p>This ended up being way longer than I planned. But if you’re reading this and haven’t started IF yet - go ahead and do it. It works!!!</p>"
 	 	},
 		{
 	 		"id": 3,
-	 		"title": "Strory 3",
-	 		"hasImage": true,
-	 		"image": "01.jpg",
-	 		"content": "content 3"
+	 		"title": "Are you Looking to a Lose a Decent Amount of Weight?",
+	 		"hasImage": false,
+	 		"image": "default.jpg",
+	 		"content": "<p>I am 190 cm tall (6'3") and approximately 170 kg (375 lbs) and a 19-year-old male. I have been trying intermittent fasting for about a week and I really like it. It is easier for me than regular Keto diets as I have a self-control issue where it is hard for me to stop eating once I start, but I can withhold from eating easily. I have been running OMAD and 20:4, on alternate days. So far I haven't really had a drop, my weight has stayed steady, (which is better than going up!) but I was wondering about food and how much to have. At the moment I am having about 1300-1700 calories in my window of eating and I was wondering what a good number would be.</p><p>I don't need to drop weight fast, I would like to make this a sustainable lifestyle. I am looking for around a 1 kg (2.2 lbs) drop per week for a good while. I go to the gym for about an hour 3 times a week and I don't do much cardio (I am building that up) I do a lot of strength training. I would love to hear any advice or answer any questions. Thanks!</p>"
 	 	},
 		{
 	 		"id": 4,
-	 		"title": "Strory 4",
-	 		"hasImage": false,
-	 		"image": "",
-	 		"content": "content 4"
+	 		"title": "Here is my Before and After (lost 48lbs)",
+	 		"hasImage": true,
+	 		"image": "04.jpg",
+	 		"content": "<p>I'm 53 years old, my start weight is 238lbs I tried IF end of August 2018, without any kind of Keto or CICO just Intermittent Fasting, and I go to Gym regularly.</p>"
 	 	},
 	 	{
 	 		"id": 5,
-	 		"title": "Strory 5",
+	 		"title": "Thanks To IF 110kg down to 81kg",
+	 		"hasImage": false,
+	 		"image": "default.jpg",
+	 		"content": "<p>It took me a long time, in my opinion. the first 10~15 kilos lost was pretty fast the moment I took exercise seriously. While I did look remarkably thinner with clothes I was still skinny fat from huge drastic weight loss. this is where it will become trial and error, some weeks, even months will make it seem like you are stuck. But suddenly it clicks, good strength workout, 4~5 HIT cardio, I workout 5~6 days a week.</p><p>Also if you have experienced the same scenario as me, «skinnyfat» combined with lean muscles, told by different parties to bulk, to cut. It can be very confusing. I Personally understand I had a lot of hidden fat, especially in my belly so I decided to workout intense for 3 months with a lot of calories 3~5k the day. By doing this I realized my physique wouldn't be too dramatic due to muscles not being defined clearly due to bulk/fat. Since I was skinny fat I have gained mass and now cutting to shred down body fat % and maintaining muscles the best I can with low volume workout with HIIT cardio 5~6 days a week.. also hit your protein goal.</p><p>NOW this is a huge wall of text with a lot of information, right or wrong. But I know there many like me who had a «easy» time going obese to overweight then struggle to fix body composition to look good. From 24 BMI down.</p>"
+	 	},
+	 	{
+	 		"id": 6,
+	 		"title": "Losing 20lbs after 3 months of  Intermittent Fasting",
 	 		"hasImage": true,
-	 		"image": "01.jpg",
-	 		"content": "content 5"
+	 		"image": "06.jpg",
+	 		"content": "<p>First, it was only keto then 16:8 for some time and now I'm on OMAD, but I will be switching to some sort of 20:4 fast.</p><p>I did not exercise the whole time and it's a shame, Not really every day, but I adjusted my diet Enough to lose the weight... I consumed mostly raw food every day for breakfast And dinner for the last two months, I also quit drinking, I had a juice diet fór 4 days. A lot of stuff. And I had probably one week when I was kinda cheating on my habits, but then I came back.</p><p>I focus mainly on light food - the worst food for me is pork, I can never digest it. So I'm off that. I was on keto before fasting, but it did not really work for me, then I "switched" to fasting.</p><p>So usually for breakfast, I eat whole raw food - fruit (apples, pears, oranges) unroasted and unsalted peanuts, coconut slices and sometimes honey. Then eat nothing, only drink water or tea, then have lunch around 11 - 12 o'clock and then I'm good for a day. I don't really focus that much at what is in the lunch, but I care about the right amount of carbs, proteins and fats.</p><p>I was on One meal a diet for a while, I ate only lunch and after that some fruit, all within one hour. That was really effective, but I felt drained in the morning sometimes. Now I'm mostly on 20:4 fast, eating only the breakfast and lunch, basically the same caloric amount as on OMAD, so I will see what its gonna do.</p><p>But one thing I must mention is SPROUTS. Those things are MIRACLE for weight loss. Basically perfect ingredient. I sprout seeds very often, you can sprout so many of them - chickpeas, pea, sunflower, lentil, rye, wheat, chia, hemp, buckwheat... whatever you want, just find the right way to sprout specific seeds. Those things are full of vitamins and right enzymes and all kind of stuff, they will fill you up and they are so light!! I recommend them to everybody, they are a significant help.</p>"
+	 	},
+	 	{
+	 		"id": 7,
+	 		"title": "Stop eating is harder for me than not eating",
+	 		"hasImage": false,
+	 		"image": "default.jpg",
+	 		"content": "<p>A couple of days ago, someone asked me why I am fasting intermittently. We went back and forth for a minute until I realized something that is very obviously true about myself, but that I had never expressed.</p><p>If you give me a bag of chips, I'll easily go through half or more of the bag. It will be there, taunting me, mocking me with its tasty salty deliciousness, and the same with cookies or fudge or whatever. I don't have the kind of willpower to just stop at none.</p><p>But I do have a decent amount of willpower to eat at a set time. I find it much easier to say no to everything because I have a schedule to follow. I also find it relatively easy to avoid cheating at the end of the schedule.</p>"
+	 	},
+	 	{
+	 		"id": 8,
+	 		"title": "3 months of IF, I genuinely hadn’t noticed the change",
+	 		"hasImage": true,
+	 		"image": "08.jpg",
+	 		"content": "<p>I do either 16:8 or 14:10 (depending on how disciplined I am in a given day) although when I’m on the road I do 18:6. For nutrition, I’m simply counting calories. I’m 6’2” so I stick to < 1846 calories.</p><p>I eat a fairly normal diet. Lots of eggs for the 1st meal. Snacks are usually light vanilla Greek yoghurt with some granola or muesli for some fibre. Dinner if I’m home is some sort of chicken and rice deal. I frequently have a pink lady or golden delicious apple (sliced, for some reason it makes me take longer eating it) and that does a great job of staving off sugar cravings.</p><p>On the road, I eat a lot of chic-fil-a for lunch bring yoghurt/granola or skinny cow ice cream sandwiches to work for the snack. For dinner, there’s a lot of chipotles (light on the cheese), or twin peaks steak salad (omg I love it).</p>"
+	 	},
+	 	{
+	 		"id": 9,
+	 		"title": "50 pounds down in 11 weeks",
+	 		"hasImage": true,
+	 		"image": "09.jpg",
+	 		"content": "<p>My first month I just focused on fasting nothing else. Ate whatever I wanted in my window. I did 16:8. After the first month, I used my fitness pal to track caloric intake and try not to go over it. With the fasting now I have a hard time hitting the number it says. I am generally eating about 1800 calories a day. I am not hungry and don't miss any food. If I want something I make it for in the calories for the day. I also stopped drinking diet soda the second month. Was drinking a 2 litre a day. In the morning first thing I drink is 1 cup of apple flavoured water with 1 tablespoon of apple cider vinegar and a pinch of pink sea salt. I use the Clear Fuji apple water from Walmart I found that tastes the least gross altogether. That's it. I just started exercising last week and after Thanksgiving plan on hitting the gym to lift.</p>"
+	 	},
+	 	{
+	 		"id": 10,
+	 		"title": "Intermittent fasting was a game changer for me!",
+	 		"hasImage": true,
+	 		"image": "10.jpg",
+	 		"content": "<p>I started Intermittent Fasting nearly a year ago. This new way of managing my diet has completely changed my life. I'm training since the age of 18 and diet was not really part of the discussion I could have in connection with the change of my body. I ate a lot of protein, a lot of carbohydrates and fat too. I discovered this way of eating almost a year ago.</p><p>At first, I was very sceptical because for me not having breakfast made no sense! On the other hand, from the first week, I could see a change in my body. I felt like I had less inflammation in my stomach. This did motivate me to continue. I changed my way of training, eating and it was very beneficial for me. I have never looked back.</p><p>My last meal/snack is at 9:00 PM and I only eat from 12:00 PM the next day. On the progress picture, I weighed 226LBS before and now I'm at 195LBS and I consider myself with a better life on every aspect. If you set goals and motivate yourself to achieve them, I can guarantee you that the best is waiting for you. Do not let go, even if sometimes it may seem difficult. It's all about motivation and discipline. You are able because I managed my bet. Happy Fasting!</p>"
 	 	}
 	]
 
