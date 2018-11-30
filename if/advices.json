@@ -1,0 +1,41 @@
+{
+	"advices" : [
+	 	{
+	 		"id": 1,
+	 		"content": "Drink water, You must drink a lot of water"
+	 	},
+		{
+	 		"id": 2,
+	 		"content": "Stay busy, in order to be succeed in Intermittent Fasting"
+	 	},
+		{
+	 		"id": 3,
+	 		"content": "Drink coffee or tea, it's not something that you must do but it helps feel full"
+	 	},
+		{
+	 		"id": 4,
+	 		"content": "Ride out the hunger waves"
+	 	},
+		{
+	 		"id": 5,
+	 		"content": "Don’t tell anybody who is not supportive that you are fasting"
+	 	},
+		{
+	 		"id": 6,
+	 		"content": "Give yourself one month, you will fail and you must try again"
+	 	},
+		{
+	 		"id": 7,
+	 		"content": "Follow a low-carb diet between fasting periods. This reduces hunger and makes fasting much easier. It may also increase the effect on weight loss and type 2 diabetes reversal, etc"
+	 	},
+		{
+	 		"id": 8,
+	 		"content": "Don’t binge aftr fasting"
+	 	},
+		{
+	 		"id": 9,
+	 		"content": "Break your fast gently, Overeating right after fasting may lead to stomach discomfort. While not serious, it can be quite uncomfortable."
+	 	}
+	]
+
+}
