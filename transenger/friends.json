@@ -15,7 +15,7 @@
   	},
   	{
   		"id": 3,
-		"ads": true,
+		"ads": false,
   		"name": "Eva Lin",
   		"description": "Eva Lin she was born at 4 May 1985 in Philippines, she lives now in United States she is mixed race and she has a hazel eyes color and varies / changing hair color, she has a medium chest size.",
   		"image": "eva.jpg"
@@ -29,7 +29,7 @@
   	},
   	{
   		"id": 5,
-		"ads": true,
+		"ads": false,
   		"name": "Jessy Dubai",
   		"description": "Jessy Dubai was born at 12 November 1989 in Mexico, she lives now in United States , she is latina race and she has a brown eyes color and black hair color, she has a big chest size and she is 170 cm in height.",
   		"image": "jessydubai.jpg"
@@ -71,7 +71,7 @@
   	},
   	{
   		"id": 11,
-		"ads": true,
+		"ads": false,
   		"name": "Carla Novaes",
   		"description": "Carla Novaes she was born at 27 May 1986 in Sao Paulo, Brazil she is Latina and she has a green eyes color and blond hair color, she has a big chest size she is 172 cm in height.",
   		"image": "novas.jpg"
