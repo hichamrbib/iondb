@@ -65,7 +65,7 @@
 	{
 		"id": 3,
 		"question": "أنفيلد هو موطن أي نادي إنجليزي؟",
-		"ads": true,
+		"ads": false,
 		"img": "04.jpg",
 		"choices": [
 			{
@@ -107,7 +107,7 @@
 	{
 		"id": 5,
 		"question": "في إي دولة أقيمت أول بطولة لكأس القارات؟",
-		"ads": true,
+		"ads": false,
 		"img": "06.jpg",
 		"choices": [
 			{

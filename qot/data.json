@@ -65,7 +65,7 @@
 	{
 		"id": 3,
 		"question": "Can you identify This Tgirl ?",
-		"ads": true,
+		"ads": false,
 		"img": "janemarie.jpg",
 		"choices": [
 			{
@@ -149,7 +149,7 @@
 	{
 		"id": 7,
 		"question": "Can you identify This Tgirl ?",
-		"ads": true,
+		"ads": false,
 		"img": "mia.jpg",
 		"choices": [
 			{
