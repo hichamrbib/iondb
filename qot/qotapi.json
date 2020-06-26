@@ -1,24 +1,24 @@
 [
-	{
-		"question": "Do you agree that LGBTQ community is real?",
-		"ads": false,
-		"img": "",
-		"choices": [
-			{
-				"id": 1,
-				"answer": "Yes, I do"
-			},
-			{
-				"id": 2,
-				"answer": "No, I don't"
-			},
-			{
-				"id": 3,
-				"answer": "I don't know!"
-			}
-		],
-		"answer": 1
-	},
+	// {
+	// 	"question": "Do you agree that LGBTQ community is real?",
+	// 	"ads": false,
+	// 	"img": "",
+	// 	"choices": [
+	// 		{
+	// 			"id": 1,
+	// 			"answer": "Yes, I do"
+	// 		},
+	// 		{
+	// 			"id": 2,
+	// 			"answer": "No, I don't"
+	// 		},
+	// 		{
+	// 			"id": 3,
+	// 			"answer": "I don't know!"
+	// 		}
+	// 	],
+	// 	"answer": 1
+	// },
 	{
 		"question": "Can you identify This Tgirl ?",
 		"ads": false,
@@ -79,144 +79,144 @@
 		],
 		"answer": 1
 	},
-	{
-		"question": "Can you identify This Tgirl ?",
-		"ads": false,
-		"img": "janemarie.jpg",
-		"choices": [
-			{
-				"id": 1,
-				"answer": "Sabrina Campos"
-			},
-			{
-				"id": 2,
-				"answer": "Jane Marie"
-			},
-			{
-				"id": 3,
-				"answer": "Lexie Beth"
-			}
-		],
-		"answer": 2
-	},
-	{
-		"question": "Can you identify This Tgirl ?",
-		"ads": false,
-		"img": "jessydubai.jpg",
-		"choices": [
-			{
-				"id": 1,
-				"answer": "Jessi Martinez"
-			},
-			{
-				"id": 2,
-				"answer": "Jessy Dubai"
-			},
-			{
-				"id": 3,
-				"answer": "Jessica Versace"
-			}
-		],
-		"answer": 2
-	},
-	{
-		"question": "Can you identify This Tgirl ?",
-		"ads": true,
-		"img": "kiti.jpg",
-		"choices": [
-			{
-				"id": 1,
-				"answer": "Kitty Kaiti"
-			},
-			{
-				"id": 2,
-				"answer": "Kitty Doll"
-			},
-			{
-				"id": 3,
-				"answer": "Korra Del Rio"
-			}
-		],
-		"answer": 1
-	},
-	{
-		"question": "Can you identify This Tgirl ?",
-		"ads": false,
-		"img": "lane.jpg",
-		"choices": [
-			{
-				"id": 1,
-				"answer": "Annalise Rose"
-			},
-			{
-				"id": 2,
-				"answer": "Evie Eliot"
-			},
-			{
-				"id": 3,
-				"answer": "Annabelle Lane"
-			}
-		],
-		"answer": 3
-	},
-	{
-		"question": "Can you identify This Tgirl ?",
-		"ads": false,
-		"img": "mia.jpg",
-		"choices": [
-			{
-				"id": 1,
-				"answer": "Mia Maffia"
-			},
-			{
-				"id": 2,
-				"answer": "Sasha Strokes"
-			},
-			{
-				"id": 3,
-				"answer": "Mia Isabella"
-			}
-		],
-		"answer": 3
-	},
-	{
-		"question": "Can you identify This Tgirl ?",
-		"ads": false,
-		"img": "natalie.jpg",
-		"choices": [
-			{
-				"id": 1,
-				"answer": "Natalie Mars"
-			},
-			{
-				"id": 2,
-				"answer": "Naomi Chi"
-			},
-			{
-				"id": 3,
-				"answer": "Nathany Gomes"
-			}
-		],
-		"answer": 1
-	},
-	{
-		"question": "Can you identify This Tgirl ?",
-		"ads": true,
-		"img": "nina.jpg",
-		"choices": [
-			{
-				"id": 1,
-				"answer": "Fernanda Barros"
-			},
-			{
-				"id": 2,
-				"answer": "Nina Lawless"
-			},
-			{
-				"id": 3,
-				"answer": "Nody Nadia"
-			}
-		],
-		"answer": 2
-	}
+	// {
+	// 	"question": "Can you identify This Tgirl ?",
+	// 	"ads": false,
+	// 	"img": "janemarie.jpg",
+	// 	"choices": [
+	// 		{
+	// 			"id": 1,
+	// 			"answer": "Sabrina Campos"
+	// 		},
+	// 		{
+	// 			"id": 2,
+	// 			"answer": "Jane Marie"
+	// 		},
+	// 		{
+	// 			"id": 3,
+	// 			"answer": "Lexie Beth"
+	// 		}
+	// 	],
+	// 	"answer": 2
+	// },
+	// {
+	// 	"question": "Can you identify This Tgirl ?",
+	// 	"ads": false,
+	// 	"img": "jessydubai.jpg",
+	// 	"choices": [
+	// 		{
+	// 			"id": 1,
+	// 			"answer": "Jessi Martinez"
+	// 		},
+	// 		{
+	// 			"id": 2,
+	// 			"answer": "Jessy Dubai"
+	// 		},
+	// 		{
+	// 			"id": 3,
+	// 			"answer": "Jessica Versace"
+	// 		}
+	// 	],
+	// 	"answer": 2
+	// },
+	// {
+	// 	"question": "Can you identify This Tgirl ?",
+	// 	"ads": true,
+	// 	"img": "kiti.jpg",
+	// 	"choices": [
+	// 		{
+	// 			"id": 1,
+	// 			"answer": "Kitty Kaiti"
+	// 		},
+	// 		{
+	// 			"id": 2,
+	// 			"answer": "Kitty Doll"
+	// 		},
+	// 		{
+	// 			"id": 3,
+	// 			"answer": "Korra Del Rio"
+	// 		}
+	// 	],
+	// 	"answer": 1
+	// },
+	// {
+	// 	"question": "Can you identify This Tgirl ?",
+	// 	"ads": false,
+	// 	"img": "lane.jpg",
+	// 	"choices": [
+	// 		{
+	// 			"id": 1,
+	// 			"answer": "Annalise Rose"
+	// 		},
+	// 		{
+	// 			"id": 2,
+	// 			"answer": "Evie Eliot"
+	// 		},
+	// 		{
+	// 			"id": 3,
+	// 			"answer": "Annabelle Lane"
+	// 		}
+	// 	],
+	// 	"answer": 3
+	// },
+	// {
+	// 	"question": "Can you identify This Tgirl ?",
+	// 	"ads": false,
+	// 	"img": "mia.jpg",
+	// 	"choices": [
+	// 		{
+	// 			"id": 1,
+	// 			"answer": "Mia Maffia"
+	// 		},
+	// 		{
+	// 			"id": 2,
+	// 			"answer": "Sasha Strokes"
+	// 		},
+	// 		{
+	// 			"id": 3,
+	// 			"answer": "Mia Isabella"
+	// 		}
+	// 	],
+	// 	"answer": 3
+	// },
+	// {
+	// 	"question": "Can you identify This Tgirl ?",
+	// 	"ads": false,
+	// 	"img": "natalie.jpg",
+	// 	"choices": [
+	// 		{
+	// 			"id": 1,
+	// 			"answer": "Natalie Mars"
+	// 		},
+	// 		{
+	// 			"id": 2,
+	// 			"answer": "Naomi Chi"
+	// 		},
+	// 		{
+	// 			"id": 3,
+	// 			"answer": "Nathany Gomes"
+	// 		}
+	// 	],
+	// 	"answer": 1
+	// },
+	// {
+	// 	"question": "Can you identify This Tgirl ?",
+	// 	"ads": true,
+	// 	"img": "nina.jpg",
+	// 	"choices": [
+	// 		{
+	// 			"id": 1,
+	// 			"answer": "Fernanda Barros"
+	// 		},
+	// 		{
+	// 			"id": 2,
+	// 			"answer": "Nina Lawless"
+	// 		},
+	// 		{
+	// 			"id": 3,
+	// 			"answer": "Nody Nadia"
+	// 		}
+	// 	],
+	// 	"answer": 2
+	// }
 ]
