@@ -17,8 +17,8 @@
       "image":"ann.jpg",
       "age": 28,
       "country": {
-         "name" : "Thailand",
-         "flag": "https://restcountries.eu/data/tha.svg"
+         "name" : "Philippines",
+         "flag": "https://restcountries.eu/data/phl.svg"
       }
    },
    {
@@ -39,8 +39,8 @@
       "image":"deesa.jpg",
       "age": 18,
       "country": {
-         "name" : "Thailand",
-         "flag": "https://restcountries.eu/data/tha.svg"
+         "name" : "Philippines",
+         "flag": "https://restcountries.eu/data/phl.svg"
       }
    },
    {
@@ -61,8 +61,8 @@
       "image":"alegra.jpg",
       "age": 25,
       "country": {
-         "name" : "Thailand",
-         "flag": "https://restcountries.eu/data/tha.svg"
+         "name" : "Philippines",
+         "flag": "https://restcountries.eu/data/phl.svg"
       }
    },
    {
@@ -83,8 +83,8 @@
       "image":"nadia.jpg",
       "age": 22,
       "country": {
-         "name" : "Thailand",
-         "flag": "https://restcountries.eu/data/tha.svg"
+         "name" : "Philippines",
+         "flag": "https://restcountries.eu/data/phl.svg"
       }
    },
    {
@@ -105,8 +105,8 @@
       "image":"mia.jpg",
       "age": 29,
       "country": {
-         "name" : "Thailand",
-         "flag": "https://restcountries.eu/data/tha.svg"
+         "name" : "Philippines",
+         "flag": "https://restcountries.eu/data/phl.svg"
       }
    }
 ]
